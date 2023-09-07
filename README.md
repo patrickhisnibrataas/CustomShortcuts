@@ -4,7 +4,7 @@
 
 # How to automatically run at system startup
 
-1. Create a shortcut to the customShortcuts.ahk file.
+1. Create a shortcut to the *.ahk file.
 2. Once the shortcut has been created, right-click the file and select Cut.
 3. Press the Start button and type Run and press enter.
 4. In the Run window, type shell:startup to open the Startup folder.
@@ -12,6 +12,7 @@
 
 # Default binding
 
-| Key            | Function                   |
-| -------------- | -------------------------- |
-| F12            | Toggle media play/pause    |
+| Key            | Function                                    |
+| -------------- | ------------------------------------------- |
+| F12            | Toggle media play/pause                     |
+| Caps Lock      | Toggle keyboard languages of your choice    |
